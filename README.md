@@ -12,4 +12,4 @@ I work for a [small NHS foundation trust](https://yeovilhospital.co.uk/) in the 
 ### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fdawgs&count_private=true&show_icons=true&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fdawgs&show_icons=true&layout=compact?exclude_repo=node-poppler)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fdawgs&show_icons=true&layout=compact&exclude_repo=node-poppler)
