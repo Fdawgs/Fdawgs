@@ -1,7 +1,11 @@
 ### Well Bonjour!
 
 :hospital: 
-I work for an [NHS foundation trust](https://somersetft.nhs.uk/) in the south west of England, and have a knack for automating myself out of jobs.
+I work for a [clinical software developer](https://mbihealthcaretechnologies.com/) working with the NHS.
+Previously worked within the NHS over six years across three different trusts as an information analyst and then an interface developer.
+
+Have a nack for automating myself out of employment.
+
 
 ### Contact
 
