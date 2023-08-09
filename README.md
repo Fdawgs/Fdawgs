@@ -11,7 +11,6 @@ Have a nack for automating myself out of employment.
 
 <a href="https://www.linkedin.com/in/frazer-smith"><img alt="LinkedIn icon" height="48" width="48" src="./src/assets/icons/linkedin.svg"/></a>
 <a href="mailto:frazer.dev@outlook.com"><img alt="Email icon" height="48" width="48" src="./src/assets/icons/mail.svg"/></a>
-<a href="https://gitlab.com/Fdawgs"><img alt="GitLab icon" height="48" width="48" src="./src/assets/icons/gitlab.svg"/></a>
 
 ### Stats
 
