@@ -1,7 +1,7 @@
 ### Well Bonjour!
 
 :hospital:
-I work for a [clinical software developer](https://mbihealth.com/) working with the NHS.
+I work for a [clinical software developer](https://mbihealth.com) working with the NHS.
 
 Previously worked within the NHS over six years across Taunton and Somerset NHSFT, Yeovil District Hospital NHSFT, and Somerset NHSFT, as an information analyst and then an interface developer.
 
